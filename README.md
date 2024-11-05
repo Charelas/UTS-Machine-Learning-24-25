@@ -9,6 +9,12 @@ This project demonstrates how to:
 2. **Train and evaluate models** for price range prediction using supervised learning techniques like SVM and Decision Trees.
 3. **Perform clustering analysis** using K-Means and evaluate clusters using the silhouette score.
 
+## 👥 Anggota Kelompok
+
+1. Emanuel Charel Alessando Soge - 212310041
+2. Melani - 212310049
+3. Muhamad Yannuar Maulana - 212310023
+
 ## 🔧 Technologies & Tools
 
 - **Python** for scripting and data analysis
