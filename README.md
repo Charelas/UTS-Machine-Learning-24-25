@@ -48,7 +48,7 @@ If you have any questions or suggestions regarding this project, feel free to re
 
 - **Name**: Emanuel Charel Alessando Soge
 - **Email**: [212310053@student.ibik.ac.id](mailto:212310053@student.ibik.ac.id)
-- **GitHub**: [your-username](https://github.com/your-username)
+- **GitHub**: [Charelas](https://github.com/Charelas)
 
 ---
 
