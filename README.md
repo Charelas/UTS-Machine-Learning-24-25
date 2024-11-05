@@ -2,18 +2,18 @@
 
 Welcome to the **Smartphone Price Prediction and Clustering** project! This repository contains machine learning models and data preprocessing techniques applied to a dataset of smartphone specifications for predicting the `price_range` and exploring clusters within the data.
 
+## 👥 Anggota Kelompok
+
+1. Emanuel Charel Alessando Soge - 212310041
+2. Melani - 212310049
+3. Muhamad Yannuar Maulana - 212310023
+
 ## 📂 Project Overview
 
 This project demonstrates how to:
 1. **Preprocess and clean data**: Handling missing values, scaling features, and selecting features for modeling.
 2. **Train and evaluate models** for price range prediction using supervised learning techniques like SVM and Decision Trees.
 3. **Perform clustering analysis** using K-Means and evaluate clusters using the silhouette score.
-
-## 👥 Anggota Kelompok
-
-1. Emanuel Charel Alessando Soge - 212310041
-2. Melani - 212310049
-3. Muhamad Yannuar Maulana - 212310023
 
 ## 🔧 Technologies & Tools
 
