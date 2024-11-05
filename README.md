@@ -21,12 +21,35 @@ This project demonstrates how to:
 
 - The dataset is available at [GitHub Link to Dataset](https://raw.githubusercontent.com/isnanmulia/lecture-datasets/main/mobileprice_modified.csv).
 - **Attributes**: Contains 20 predictor attributes, and one target attribute, `price_range`, representing smartphone price categories.
+  
+## 📊 Model Evaluation
 
-## ⚙️ Project Structure
+The following metrics were used to evaluate model performance:
 
-```plaintext
-├── data                     # Contains dataset and related files
-├── models                   # Directory for saved models and configurations
-├── notebooks                # Jupyter/Colab notebooks for analysis and modeling
-├── README.md                # Project documentation
-└── requirements.txt         # Required packages for running the project
+- **Confusion Matrix**: Used to visualize and evaluate the accuracy of classification by showing the true vs predicted classifications for each class.
+- **Accuracy Score**: Measures the overall correctness of the model by calculating the ratio of correct predictions to the total predictions.
+- **Silhouette Score**: Applied in clustering analysis to measure how similar each point is to its own cluster compared to other clusters. A higher silhouette score indicates better-defined clusters.
+
+### Model Results
+
+- **Support Vector Machine (SVM)**: SVM achieved an accuracy of X%, providing insights into classification performance across different smartphone price ranges.
+- **Decision Tree Classifier**: Decision Tree achieved an accuracy of Y%, showing how well the model can separate classes based on smartphone features.
+- **K-Means Clustering**: The optimal number of clusters was determined using the elbow method and validated by the silhouette score, resulting in a silhouette score of Z.
+
+## 🤔 Future Improvements
+
+- **Hyperparameter Tuning**: Experimenting with various parameters to enhance model accuracy and generalization.
+- **Feature Engineering**: Adding or transforming features to capture more complex patterns.
+- **Other Clustering Algorithms**: Trying out alternative clustering techniques such as DBSCAN or Hierarchical Clustering for comparison.
+
+## 📬 Contact
+
+If you have any questions or suggestions regarding this project, feel free to reach out:
+
+- **Name**: Emanuel Charel Alessando Soge
+- **Email**: [212310053@student.ibik.ac.id](mailto:212310053@student.ibik.ac.id)
+- **GitHub**: [your-username](https://github.com/your-username)
+
+---
+
+
